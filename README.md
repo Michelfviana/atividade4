@@ -15,4 +15,4 @@ Cada classe tem métodos para fazer som e para mover, além de encapsulamento pa
 
 ## Diagrama de Classes UML
 
-![Diagrama de Classes](src/diagramaLoja.png)
+![Diagrama de Classes](src\DiagramaLoja.png)
