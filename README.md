@@ -7,9 +7,9 @@ Nesta atividade, desenvolvemos um sistema simples representando os conceitos de 
 O sistema contém as seguintes classes:
 
 - `CarrinhoDeCompra`: Classe que representa uma coleção de produtos.
-- `Cliente`: classe que representa um comprador em potencial
-- `Pedido`: classe que representa a solicitação de um item
-- `Produto`: classe que representa um produto 
+- `Cliente`: Classe que representa um comprador em potencial
+- `Pedido`: Classe que representa a solicitação de um item
+- `Produto`: Classe que representa um produto 
 
 ## Diagrama de classe UML
 
