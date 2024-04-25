@@ -6,13 +6,11 @@ Nesta atividade, desenvolvemos um sistema simples representando os conceitos de 
 
 O sistema contém as seguintes classes:
 
-- ``: Classe base representando um animal.
-- ``: Subclasse de `` representando um mamífero.
-- ``: Subclasse de `` representando um réptil.
-- ``: Subclasse de `` representando uma ave.
+- `CarrinhoDeCompra`: Classe que representa uma coleção de produtos.
+- `Cliente`: classe que representa um comprador em potencial
+- `Pedido`: classe que representa a solicitação de um item
+- `Produto`: classe que representa um produto 
 
-Cada classe tem métodos para fazer som e para mover, além de encapsulamento para nome e idade.
+## Diagrama de classe UML
 
-## Diagrama de Classes UML
-
-![Diagrama de Classes](src\DiagramaLoja.png)
+![Diagrama de classe](src/loja.png)
