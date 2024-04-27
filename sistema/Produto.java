@@ -1,9 +1,13 @@
+package sistema;
+
 public class Produto {
     private String nome;
     private double preco;
     private int id;
 
     // Construtor
+    private Produto(){}
+
     public Produto(int id, String nome, double preco) {
         this.id = id;
         this.nome = nome;

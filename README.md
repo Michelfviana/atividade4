@@ -13,4 +13,4 @@ O sistema contém as seguintes classes:
 
 ## Diagrama de classe UML
 
-![Diagrama de classe](src/loja.png)
+![Diagrama de classe](src/ModelagemAtividade4Final.png)
